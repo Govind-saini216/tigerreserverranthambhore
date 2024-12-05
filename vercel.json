@@ -6,7 +6,7 @@
             "dest":"/"
           },
           {
-            "src":"/safaribooking",
+            "src":"/faq",
             "dest":"/"
           }
     ]
